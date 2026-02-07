@@ -1,7 +1,7 @@
 const sidebarLinks = document.querySelectorAll(".sidebar-menu a");
 //const sections = document.querySelectorAll("section[id]");
 const sections = [
-    document.querySelector("#dashboard"),
+    document.querySelector("#DASHBOARD"),
     document.querySelector("#home"),
     document.querySelector("#donate-section"),
     document.querySelector("#about-us-page")
